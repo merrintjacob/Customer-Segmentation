@@ -1,6 +1,5 @@
 # Customer-Segmentation
 Customer Segmentation for the Travel Tide project
-# TravelTide Mastery Project @ Masterschool
 
 ## **Objective and Task**:
 Develop a customer segmentation process using data from a database by performing filtering, feature engineering, clustering, and analysis.  
